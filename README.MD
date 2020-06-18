@@ -1,3 +1,5 @@
-Esta es una app que permite crear notas en el fs, además de utilizar librerias como yargs y chalk.
+Notes App
 
-Desarrollada en Node.js
+Esta es una app que permite crear notas y manipular notas en el fs, utilizando librerias como yargs y chalk.
+
+Desarrollado en Node.js
